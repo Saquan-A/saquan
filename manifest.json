@@ -3,9 +3,9 @@
   "name": "Create React App Sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saquan-a.github.io/saquan-portfolio",
+  "homepage": "https://saquan-a.github.io/saquan",
   "dependencies": {
-		"gh-pages": "^2.0.1",
+		"gh-pages": "^3.0.1",
 		"react": "^16.8.3",
 		"react-dom": "^16.8.3",
 		"react-scripts": "2.1.5",
@@ -13,7 +13,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
-		"predeploy": "yarn run build",
+		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"},
