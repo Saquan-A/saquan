@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/saquan-portfolio/static/css/main.8a3d6a73.chunk.css",
-    "main.js": "/saquan-portfolio/static/js/main.f748d518.chunk.js",
-    "main.js.map": "/saquan-portfolio/static/js/main.f748d518.chunk.js.map",
-    "runtime-main.js": "/saquan-portfolio/static/js/runtime-main.605608c8.js",
-    "runtime-main.js.map": "/saquan-portfolio/static/js/runtime-main.605608c8.js.map",
-    "static/js/2.cf2f558d.chunk.js": "/saquan-portfolio/static/js/2.cf2f558d.chunk.js",
-    "static/js/2.cf2f558d.chunk.js.map": "/saquan-portfolio/static/js/2.cf2f558d.chunk.js.map",
-    "index.html": "/saquan-portfolio/index.html",
-    "static/css/main.8a3d6a73.chunk.css.map": "/saquan-portfolio/static/css/main.8a3d6a73.chunk.css.map",
-    "static/js/2.cf2f558d.chunk.js.LICENSE.txt": "/saquan-portfolio/static/js/2.cf2f558d.chunk.js.LICENSE.txt"
+    "main.css": "/saquan/static/css/main.8a3d6a73.chunk.css",
+    "main.js": "/saquan/static/js/main.f748d518.chunk.js",
+    "main.js.map": "/saquan/static/js/main.f748d518.chunk.js.map",
+    "runtime-main.js": "/saquan/static/js/runtime-main.2d9bd617.js",
+    "runtime-main.js.map": "/saquan/static/js/runtime-main.2d9bd617.js.map",
+    "static/js/2.cf2f558d.chunk.js": "/saquan/static/js/2.cf2f558d.chunk.js",
+    "static/js/2.cf2f558d.chunk.js.map": "/saquan/static/js/2.cf2f558d.chunk.js.map",
+    "index.html": "/saquan/index.html",
+    "static/css/main.8a3d6a73.chunk.css.map": "/saquan/static/css/main.8a3d6a73.chunk.css.map",
+    "static/js/2.cf2f558d.chunk.js.LICENSE.txt": "/saquan/static/js/2.cf2f558d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.605608c8.js",
+    "static/js/runtime-main.2d9bd617.js",
     "static/js/2.cf2f558d.chunk.js",
     "static/css/main.8a3d6a73.chunk.css",
     "static/js/main.f748d518.chunk.js"
